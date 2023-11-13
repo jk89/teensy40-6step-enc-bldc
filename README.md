@@ -55,6 +55,10 @@ The circuit has a female 13 pin header. Here is the configuration P1-x of the po
 
 I am using the 1000KV Brushless Motor A2212 13T for testing. Other motors would work but you would have to tinker with the MIN_DUTY to ensure startup defeats the rolling resistance of the motor. Similarly you may have to experiment with the startup linear chirp to get it to start properly.
 
+# Publication information
+
+Note this repository is un-released, and is not tested. Code is released as is. You run the risk of damaging hardware and injuring yourself when proceeding with this code.
+
 # WARNING
 	This is an experimental project. I have destroyed a great deal of hardware (motors, transistors, ICs) and almost caused a fire once. Please be careful when using this code. ABSOLUTELY NO WARRANTY. If you do not agree to this then please do not download this software as this would violate the license which this code was distributed with, see ./LICENSE for details.
 
